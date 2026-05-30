@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercalidate",
+        "uuid": 1174200,
+        "checksum": "82vz8p"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
